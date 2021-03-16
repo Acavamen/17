@@ -1,3 +1,4 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-name="Мир" tvg-logo="http://127.0.0.1/" group-title="Эфирные",Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="http://127.0.0.1/" group-title="Эфирные",РЕН ТВ
